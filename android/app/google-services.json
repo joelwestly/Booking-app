@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523278173166",
+    "project_id": "bookwell-9ca11",
+    "storage_bucket": "bookwell-9ca11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523278173166:android:702c44609d3bfb73d7c4ff",
+        "android_client_info": {
+          "package_name": "com.example.bookwell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAz8znWdBNr7uG4umXBtgeoCCHa179YKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
